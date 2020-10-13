@@ -16,4 +16,4 @@ reviews: []
 ---
 ## Trousse Paloma grand format
 
-Grande sœur de la trousse Paloma, aux motifs au choix, pratique avec deux petites poches plaquées à l’intérieur. Dimensions : LXX cm x HXX cm x Prof. X cm. Lavable à 30 degrés.
+Grande sœur de la trousse Paloma, aux motifs au choix, pratique avec deux petites poches plaquées à l’intérieur. Dimensions : L35 cm x H20 cm x Prof. 8 cm. Lavable à 30 degrés.
