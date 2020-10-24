@@ -13,4 +13,4 @@ reviews: []
 ---
 ## Sac à bonbons Tabatha
 
-Voilà un sac à bonbons pour Halloween qui ravira les enfants. Dimensions : 18 cm x 13 cm
+Voilà un sac à bonbons pour Halloween qui ravira les enfants. Dimensions : 18 cm x 13 cm. Doublé et lavable à 30 degrés.
