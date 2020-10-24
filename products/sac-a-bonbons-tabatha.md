@@ -1,6 +1,9 @@
 ---
 tags:
+- Les festifs
 - enfant
+- fille
+- garçon
 - cadeau enfant
 price: 12
 title: Sac à bonbons Tabatha
