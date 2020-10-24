@@ -1,12 +1,14 @@
 ---
 tags:
-- les nomades
-- girly
-- cadeau
+- Les nomades
 - femme
+- cadeau
+- girly
+- enfant
 price: 12
 title: Chouchou Camille
 images:
+- "/uploads/chouchou-enfant-fleurs-rose.jpg"
 - "/uploads/couchou-liberty.jpg"
 - "/uploads/chouchou-vichy-bleu.jpg"
 - "/uploads/chouchou-feuilles.jpg"
