@@ -1,6 +1,6 @@
 ---
 tags:
-- les nomades
+- Les nomades
 - le coin des cuisiniers
 - cadeau homme
 - cadeau femme
