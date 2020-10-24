@@ -1,7 +1,7 @@
 ---
 tags:
 - Les nomades
-- le coin des cuisiniers
+- Le coin des cuisiniers
 - cadeau homme
 - cadeau femme
 price: 35
