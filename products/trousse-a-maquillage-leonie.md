@@ -14,4 +14,4 @@ reviews: []
 ---
 ## Trousse à maquillage Léonie
 
-Trousse d'un format 20 x15 cm, idéale pour ranger son maquillage, en coton enduit. Lavable à 30 degrés.
+Trousse d'un format 20 x15 cm, idéale pour ranger son maquillage. En coton enduit et doublée. Lavable à 30 degrés.
