@@ -4,6 +4,7 @@ tags:
 - enfant
 - fille
 - garçon
+- pratique
 price: 19
 title: Sac à maillot de bain César
 images:
