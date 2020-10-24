@@ -7,6 +7,8 @@ tags:
 - pratique
 title: Trousse Paloma
 images:
+- "/uploads/trousse-de-toilette-saki-rouge-fermee.JPG"
+- "/uploads/trousse-de-toilette-saki-rouge-ouverte.JPG"
 - "/assets/1_paloma.png"
 - "/assets/1a_paloma.png"
 - "/assets/1b_paloma.png"
