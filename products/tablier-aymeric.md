@@ -9,8 +9,9 @@ title: Tablier Aymeric
 images:
 - "/assets/2_aymeric1.png"
 - "/assets/2a_aymeric2.png"
-price: 39
+price: 45
 conditions: ''
+reviews: []
 
 ---
 ## Tablier Aymeric
