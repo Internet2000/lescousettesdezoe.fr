@@ -5,7 +5,7 @@ tags:
 - fille
 - garçon
 - cadeau enfant
-price: 12
+price: 9
 title: Sac à bonbons Tabatha
 images:
 - "/uploads/sac-halloween-petit.jpg"
