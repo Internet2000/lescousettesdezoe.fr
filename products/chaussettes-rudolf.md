@@ -7,7 +7,7 @@ tags:
 - noël
 title: Chaussettes Rudolf
 images:
-- "/assets/2_rudolf.png"
+- "/uploads/2_rudolf.jpg"
 price: 12
 conditions: ''
 reviews: []

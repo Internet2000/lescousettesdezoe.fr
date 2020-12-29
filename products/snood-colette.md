@@ -7,7 +7,7 @@ tags:
 - girly
 title: Snood Colette
 images:
-- "/assets/3_colette.png"
+- "/uploads/3_colette.jpg"
 price: 29
 conditions: ''
 reviews: []

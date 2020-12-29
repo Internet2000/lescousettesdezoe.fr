@@ -8,7 +8,7 @@ tags:
 - cadeau
 title: Snood Achille
 images:
-- "/assets/2_achille.png"
+- "/uploads/2_achille.jpg"
 price: 25
 conditions: ''
 reviews: []

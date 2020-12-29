@@ -8,8 +8,8 @@ tags:
 - été
 title: Robe Célestine été
 images:
-- "/assets/1_celestine_ete.png"
-- "/uploads/1_celestine_ete2.png"
+- "/uploads/1_celestine_ete2.jpg"
+- "/uploads/1_celestine_ete.jpg"
 price: 42
 conditions: ''
 reviews:

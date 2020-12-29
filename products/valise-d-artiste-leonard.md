@@ -11,11 +11,11 @@ title: Valise d'artiste Léonard
 images:
 - "/uploads/valise-d-artiste-ninja-ouverte.jpg"
 - "/uploads/valise-d-artiste-ninja.jpg"
-- "/assets/1_leonard.png"
-- "/assets/1a_leonard.png"
-- "/assets/1d_leonard.png"
-- "/assets/1c_leonard.png"
-- "/assets/1b_leonard.png"
+- "/uploads/1_leonard.jpg"
+- "/uploads/1a_leonard.jpg"
+- "/uploads/1b_leonard.jpg"
+- "/uploads/1d_leonard.jpg"
+- "/uploads/1c_leonard.jpg"
 price: 35
 conditions: ''
 reviews:

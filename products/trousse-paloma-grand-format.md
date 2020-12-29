@@ -7,8 +7,8 @@ tags:
 - pratique
 title: Trousse Paloma grand format
 images:
-- "/assets/2_paloma_grand.png"
-- "/assets/2a_paloma_grand.png"
+- "/uploads/2_paloma_grand.jpg"
+- "/uploads/2a_paloma_grand.jpg"
 price: 37
 conditions: ''
 reviews: []

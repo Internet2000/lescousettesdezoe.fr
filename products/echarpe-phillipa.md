@@ -6,7 +6,7 @@ tags:
 - cadeau
 title: Echarpe Phillipa
 images:
-- "/assets/4_philippa.png"
+- "/uploads/4_philippa.jpg"
 price: 30
 conditions: ''
 reviews: []

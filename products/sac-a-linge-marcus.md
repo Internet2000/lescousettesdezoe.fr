@@ -8,7 +8,7 @@ tags:
 - adulte
 title: Sac à linge Marcus
 images:
-- "/assets/8_marcus.png"
+- "/uploads/8_marcus.jpg"
 price: 29
 conditions: ''
 reviews: []

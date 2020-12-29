@@ -7,8 +7,8 @@ tags:
 price: 14
 title: Masque de nuit Bobby
 images:
-- "/assets/7_bobby.png"
-- "/assets/7a_bobby.png"
+- "/uploads/7_bobby.jpg"
+- "/uploads/7a_bobby.jpg"
 conditions: ''
 reviews: []
 

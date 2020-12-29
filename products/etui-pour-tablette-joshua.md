@@ -7,7 +7,7 @@ tags:
 - femme
 title: Etui pour tablette Joshua
 images:
-- "/assets/4_joshua.png"
+- "/uploads/4_joshua.jpg"
 price: 35
 conditions: ''
 reviews: []

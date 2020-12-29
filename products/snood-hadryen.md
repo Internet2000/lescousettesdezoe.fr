@@ -8,7 +8,7 @@ tags:
 - fille
 title: Snood Hadryen
 images:
-- "/assets/3_hadryen.png"
+- "/uploads/3_hadryen.jpg"
 price: 25
 conditions: ''
 reviews: []

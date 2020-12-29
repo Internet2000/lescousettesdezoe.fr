@@ -7,7 +7,7 @@ tags:
 price: 19
 title: Etui à brosse à dents Horace
 images:
-- "/assets/6_horace.png"
+- "/uploads/6_horace.jpg"
 conditions: ''
 reviews: []
 

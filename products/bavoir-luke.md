@@ -8,14 +8,13 @@ tags:
 - garçon
 title: Bavoirs Luke
 images:
-- "/assets/1_luke1.png"
-- "/assets/1c_luke4.png"
-- "/assets/1b_luke3.png"
-- "/assets/1a_luke2.png"
-price: 23
+- "/uploads/1c_luke4.jpg"
+- "/uploads/1b_luke3.jpg"
+- "/uploads/1a_luke2.jpg"
+- "/uploads/1_luke1.jpg"
 conditions: ''
 reviews: []
-
+price: 23
 ---
 ## Bavoirs Luke
 

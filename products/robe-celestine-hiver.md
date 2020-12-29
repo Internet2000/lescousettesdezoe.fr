@@ -8,7 +8,7 @@ tags:
 - girly
 title: Robe Célestine hiver
 images:
-- "/assets/2_celestine_hiver.png"
+- "/uploads/2_celestine_hiver.jpg"
 price: 42
 conditions: ''
 reviews:

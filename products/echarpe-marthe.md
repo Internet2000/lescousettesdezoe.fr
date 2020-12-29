@@ -6,7 +6,7 @@ tags:
 - femme
 title: Echarpe Marthe
 images:
-- "/assets/5_marthe.png"
+- "/uploads/5_marthe.jpg"
 price: 30
 conditions: ''
 reviews: []

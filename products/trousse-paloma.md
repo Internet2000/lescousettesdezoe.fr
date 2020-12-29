@@ -9,10 +9,10 @@ title: Trousse Paloma
 images:
 - "/uploads/trousse-de-toilette-saki-rouge-fermee.JPG"
 - "/uploads/trousse-de-toilette-saki-rouge-ouverte.JPG"
-- "/assets/1_paloma.png"
-- "/assets/1a_paloma.png"
-- "/assets/1b_paloma.png"
-- "/assets/1bc_paloma.png"
+- "/uploads/1_paloma.jpg"
+- "/uploads/1a_paloma.jpg"
+- "/uploads/1b_paloma.jpg"
+- "/uploads/1bc_paloma.jpg"
 price: 32
 conditions: ''
 reviews:
