@@ -7,10 +7,11 @@ tags:
 - Les personnalisables
 title: Protège carnet de santé personnalisé
 images:
-- "/assets/5_carnet2sante.png"
-- "/assets/5a_carnet2sante2.png"
+- "/uploads/5_carnet2sante.jpg"
+- "/uploads/5a_carnet2sante2.jpg"
 price: 28
 conditions: ''
+reviews: []
 
 ---
 ## Protège carnet de santé personnalisé
