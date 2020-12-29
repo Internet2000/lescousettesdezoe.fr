@@ -9,7 +9,7 @@ title: Tablier Aymeric
 images:
 - "/uploads/2_aymeric1.jpg"
 - "/uploads/2a_aymeric2.jpg"
-price: 39
+price: 45
 conditions: ''
 reviews: []
 

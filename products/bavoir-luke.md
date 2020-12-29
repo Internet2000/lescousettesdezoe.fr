@@ -12,10 +12,9 @@ images:
 - "/uploads/1b_luke3.jpg"
 - "/uploads/1a_luke2.jpg"
 - "/uploads/1_luke1.jpg"
-price: 19
 conditions: ''
 reviews: []
-
+price: 23
 ---
 ## Bavoirs Luke
 
