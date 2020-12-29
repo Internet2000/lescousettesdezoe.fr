@@ -7,9 +7,10 @@ tags:
 - Les personnalisables
 title: Kit naissance personnalisé
 images:
-- "/assets/2_kit_naissance.png"
+- "/uploads/2_kit_naissance.jpg"
 price: 59
 conditions: ''
+reviews: []
 
 ---
 ## Kit naissance personnalisé
