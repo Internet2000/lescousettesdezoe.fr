@@ -5,7 +5,7 @@ tags:
 - cadeau
 title: Bouillottes Joséphine
 images:
-- "/uploads/bouill.png"
+- "/uploads/1_bouillottes_seches.png"
 price: 16
 conditions: ''
 reviews: []
