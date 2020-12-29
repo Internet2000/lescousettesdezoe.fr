@@ -5,7 +5,7 @@ tags:
 - Les nomades
 title: Pochette bébé nomade
 images:
-- "/assets/3_pochette_nomade.png"
+- "/uploads/3_pochette_nomade.jpg"
 price: 26
 conditions: ''
 reviews: []
