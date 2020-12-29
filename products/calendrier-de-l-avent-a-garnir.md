@@ -8,7 +8,7 @@ tags:
 title: Calendrier de l’Avent à garnir
 images:
 - "/uploads/1_calendrier_avent.jpg"
-- "/uploads/1a_calendrier_avent-1.png"
+- "/uploads/1a_calendrier_avent.jpg"
 price: 45
 conditions: ''
 reviews: []
