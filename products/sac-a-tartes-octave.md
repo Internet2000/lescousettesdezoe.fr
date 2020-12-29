@@ -7,8 +7,8 @@ tags:
 - femme
 title: Sac à tartes Octave
 images:
-- "/assets/1_octave1.png"
-- "/assets/1a_octave2.png"
+- "/uploads/1a_octave2.jpg"
+- "/uploads/1_octave1.jpg"
 price: 22
 conditions: ''
 reviews:
