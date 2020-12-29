@@ -7,7 +7,7 @@ tags:
 - pratique
 title: Kit week-end à Bornéo
 images:
-- "/assets/5_kit_we_borneo.png"
+- "/uploads/5_kit_we_borneo.jpg"
 price: 42
 conditions: ''
 reviews: []
