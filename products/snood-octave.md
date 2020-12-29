@@ -7,7 +7,7 @@ tags:
 - fille
 title: Snood Alma
 images:
-- "/assets/1_alma.png"
+- "/uploads/1_snoods855x792-1.jpg"
 price: 28
 conditions: ''
 reviews: []
