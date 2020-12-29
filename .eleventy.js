@@ -33,6 +33,7 @@ eleventyConfig.addFilter('tagFilter', function(collection, category) {
   eleventyConfig.addPassthroughCopy('css/*.ico') // favicon
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
+  eleventyConfig.addPassthroughCopy('.silex/components')
 
   // other config
   return {
