@@ -7,7 +7,7 @@ tags:
 - pratique
 title: Etui à lunettes Marvin
 images:
-- "/assets/3_marvin.png"
+- "/uploads/3_marvin.jpg"
 price: 12
 conditions: ''
 reviews:
