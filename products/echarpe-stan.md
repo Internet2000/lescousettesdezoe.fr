@@ -7,7 +7,7 @@ tags:
 - adulte
 title: Echarpe Stan
 images:
-- "/assets/5_stan.png"
+- "/uploads/5_stan.jpg"
 price: 30
 conditions: ''
 reviews: []
