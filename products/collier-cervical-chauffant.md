@@ -7,7 +7,7 @@ tags:
 - cadeau
 title: Collier cervical chauffant
 images:
-- "/uploads/img_8453.jpg"
+- "/uploads/collier-cervical-bleu.jpg"
 - "/uploads/2a_collier_cervical.jpg"
 - "/uploads/2_collier_cervical2.jpg"
 price: 12
