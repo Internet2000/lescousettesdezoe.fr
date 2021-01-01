@@ -8,7 +8,7 @@ tags:
 price: 19
 title: Sac à maillot de bain César
 images:
-- "/uploads/sac-de-piscine-coton-enduit.JPG"
+- "/uploads/sac-a-maillot-de-bain-cesar.JPG"
 conditions: ''
 reviews: []
 
