@@ -8,8 +8,8 @@ tags:
 price: 9
 title: Sac à bonbons Tabatha
 images:
-- "/uploads/sac-halloween-petit.jpg"
-- "/uploads/sac-a-bonbons-ouvert.jpg"
+- "/uploads/sac-a-bonbons-tabatha.jpg"
+- "/uploads/sac-halloween-interieur.jpg"
 conditions: ''
 reviews: []
 
