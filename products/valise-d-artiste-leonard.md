@@ -9,6 +9,7 @@ tags:
 - enfant
 title: Valise d'artiste Léonard
 images:
+- "/uploads/valise-d-artiste-ninja-open.jpg"
 - "/uploads/valise-d-artiste-ninjia-fermee.jpg"
 - "/uploads/1_leonard.jpg"
 - "/uploads/1a_leonard.jpg"
