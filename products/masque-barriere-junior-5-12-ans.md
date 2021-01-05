@@ -6,9 +6,8 @@ tags:
 price: 7
 title: 'Masque barrière junior : 5-12 ans '
 images:
-- "/uploads/masques-enfant-2.jpg"
-- "/uploads/masque-my-hero.JPG"
-- "/uploads/masque-petites-fleurs.jpg"
+- "/uploads/masques-barriere-junior-automne.jpg"
+- "/uploads/masque-barriere-my-hero.JPG"
 - "/uploads/masque-rose-fleurs-blanches.jpg"
 - "/uploads/masque-ballerine.jpg"
 - "/uploads/masque-bulles-bleues.jpg"

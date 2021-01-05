@@ -7,8 +7,8 @@ price: 7
 title: Masque barrière taille adulte
 images:
 - "/uploads/masques-de-noel.JPG"
-- "/uploads/masque-cerise.jpg"
-- "/uploads/masque-saki-rouge.jpg"
+- "/uploads/masque-adulte-cerises.jpg"
+- "/uploads/masque-adulte-rouge.jpg"
 - "/uploads/masque-noir-etoiles-blanches.jpg"
 - "/uploads/masque-feuilles.jpg"
 - "/uploads/masque-liberty.jpg"

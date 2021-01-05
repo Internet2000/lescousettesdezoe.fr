@@ -8,11 +8,11 @@ tags:
 price: 12
 title: Chouchou Camille
 images:
-- "/uploads/chouchou-enfant-fleurs-rose.jpg"
-- "/uploads/img_8208.jpg"
-- "/uploads/couchou-liberty.jpg"
-- "/uploads/chouchou-vichy-bleu.jpg"
-- "/uploads/chouchou-feuilles.jpg"
+- "/uploads/chouchou-camille-5.jpg"
+- "/uploads/chouchou-camille-4.jpg"
+- "/uploads/chouchou-camille-3.jpg"
+- "/uploads/chouchou-camille-2.jpg"
+- "/uploads/choucou-camille-1.jpg"
 conditions: ''
 reviews: []
 

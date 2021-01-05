@@ -7,7 +7,7 @@ tags:
 price: 22
 title: Trousse à maquillage Léonie
 images:
-- "/uploads/trousse-a-maquillage-coton-enduit.jpg"
+- "/uploads/trousse-a-maquillage-leonie.jpg"
 conditions: ''
 reviews: []
 

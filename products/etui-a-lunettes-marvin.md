@@ -7,7 +7,7 @@ tags:
 - pratique
 title: Etui à lunettes Marvin
 images:
-- "/uploads/etui-lunettes-rouge-a-pois.jpg"
+- "/uploads/etui-a-lunettes-marvin-rouge.jpg"
 - "/uploads/etui-a-lunettes-etoiles.JPG"
 - "/uploads/3_marvin.jpg"
 price: 12
